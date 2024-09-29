@@ -1,0 +1,22 @@
+{
+  "name": "week-4-login-page",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cache-express": "^1.0.2",
+    "crypto": "^1.0.1",
+    "express": "^4.20.0",
+    "express-session": "^1.18.0",
+    "hbs": "^4.2.0",
+    "nocache": "^4.0.0",
+    "nodemon": "^3.1.4"
+  }
+}
